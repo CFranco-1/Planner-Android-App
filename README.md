@@ -5,3 +5,6 @@ For my final project I created a general planner application in Java using Andro
 ### Bugs
 - The app will crash if either the username or password fields are left blank in either the Login Page or Register Page
 
+### Important Note
+
+- This was originally posted on my professors repository, but has since been made private. I have created this copy for future reference and easier access. 
