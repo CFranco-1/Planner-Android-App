@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "677935465634",
+    "firebase_url": "https://mad-final-9c7ca.firebaseio.com",
+    "project_id": "mad-final-9c7ca",
+    "storage_bucket": "mad-final-9c7ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677935465634:android:1b6d48854a4cdbab6643fb",
+        "android_client_info": {
+          "package_name": "com.example.plannerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677935465634-4cbmhtb3ltbc6rt05id3fvg4566p20e3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArT4-s1Rm5oEQGyTp0TBcc_eeSiSV-dmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677935465634-4cbmhtb3ltbc6rt05id3fvg4566p20e3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
